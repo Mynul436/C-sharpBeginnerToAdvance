@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\bin\Debug\net6.0\MethodExample.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\bin\Debug\net6.0\MethodExample.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\bin\Debug\net6.0\MethodExample.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\bin\Debug\net6.0\MethodExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\bin\Debug\net6.0\MethodExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\refint\MethodExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\MethodExample.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\MethodExample\obj\Debug\net6.0\ref\MethodExample.dll

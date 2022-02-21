@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\bin\Debug\net6.0\LoopExample.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\bin\Debug\net6.0\LoopExample.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\bin\Debug\net6.0\LoopExample.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\bin\Debug\net6.0\LoopExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\bin\Debug\net6.0\LoopExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\refint\LoopExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\LoopExample.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LoopExample\obj\Debug\net6.0\ref\LoopExample.dll
