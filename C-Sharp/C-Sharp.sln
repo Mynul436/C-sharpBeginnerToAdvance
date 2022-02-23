@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{3FAB446D-5DDC-4753-81A4-8582E89522F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello", "Hello\Hello.csproj", "{3FAB446D-5DDC-4753-81A4-8582E89522F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{D889FC04-01BB-4FE7-B59F-8ADE82838BAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{D889FC04-01BB-4FE7-B59F-8ADE82838BAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodExample", "MethodExample\MethodExample.csproj", "{CFB7D367-40D7-4FA4-AA2C-14CA6688F62B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodExample", "MethodExample\MethodExample.csproj", "{CFB7D367-40D7-4FA4-AA2C-14CA6688F62B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopExample", "LoopExample\LoopExample.csproj", "{7496A7CB-E64E-4C62-9EAC-C9AB1763B605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopExample", "LoopExample\LoopExample.csproj", "{7496A7CB-E64E-4C62-9EAC-C9AB1763B605}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassSystem", "ClassSystem\ClassSystem.csproj", "{5EC66A18-67F7-43B7-A169-E29EE48B7379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{4A8CCDD5-1637-4941-BFD6-58898481670B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseUsingInputFromUser", "IfElseUsingInputFromUser\IfElseUsingInputFromUser.csproj", "{247E4770-0193-4D61-9530-5A5C03DF009B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwichCase", "SwichCase\SwichCase.csproj", "{2538B009-236B-4FE4-9E4F-B641BF4A18CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{7496A7CB-E64E-4C62-9EAC-C9AB1763B605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7496A7CB-E64E-4C62-9EAC-C9AB1763B605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7496A7CB-E64E-4C62-9EAC-C9AB1763B605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC66A18-67F7-43B7-A169-E29EE48B7379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC66A18-67F7-43B7-A169-E29EE48B7379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC66A18-67F7-43B7-A169-E29EE48B7379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC66A18-67F7-43B7-A169-E29EE48B7379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8CCDD5-1637-4941-BFD6-58898481670B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8CCDD5-1637-4941-BFD6-58898481670B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8CCDD5-1637-4941-BFD6-58898481670B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8CCDD5-1637-4941-BFD6-58898481670B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247E4770-0193-4D61-9530-5A5C03DF009B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247E4770-0193-4D61-9530-5A5C03DF009B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247E4770-0193-4D61-9530-5A5C03DF009B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247E4770-0193-4D61-9530-5A5C03DF009B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2538B009-236B-4FE4-9E4F-B641BF4A18CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2538B009-236B-4FE4-9E4F-B641BF4A18CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2538B009-236B-4FE4-9E4F-B641BF4A18CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2538B009-236B-4FE4-9E4F-B641BF4A18CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
