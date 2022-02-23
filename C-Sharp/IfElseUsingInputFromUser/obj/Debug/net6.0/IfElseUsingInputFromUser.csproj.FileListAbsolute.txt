@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\bin\Debug\net6.0\IfElseUsingInputFromUser.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\bin\Debug\net6.0\IfElseUsingInputFromUser.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\bin\Debug\net6.0\IfElseUsingInputFromUser.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\bin\Debug\net6.0\IfElseUsingInputFromUser.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\bin\Debug\net6.0\IfElseUsingInputFromUser.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\refint\IfElseUsingInputFromUser.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\IfElseUsingInputFromUser.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\IfElseUsingInputFromUser\obj\Debug\net6.0\ref\IfElseUsingInputFromUser.dll

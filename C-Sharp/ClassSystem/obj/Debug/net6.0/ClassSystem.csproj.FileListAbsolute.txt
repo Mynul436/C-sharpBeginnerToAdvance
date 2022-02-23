@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\bin\Debug\net6.0\ClassSystem.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\bin\Debug\net6.0\ClassSystem.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\bin\Debug\net6.0\ClassSystem.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\bin\Debug\net6.0\ClassSystem.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\bin\Debug\net6.0\ClassSystem.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\refint\ClassSystem.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ClassSystem.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ClassSystem\obj\Debug\net6.0\ref\ClassSystem.dll

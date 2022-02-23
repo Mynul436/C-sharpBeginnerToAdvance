@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\bin\Debug\net6.0\SwichCase.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\bin\Debug\net6.0\SwichCase.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\bin\Debug\net6.0\SwichCase.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\bin\Debug\net6.0\SwichCase.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\bin\Debug\net6.0\SwichCase.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\refint\SwichCase.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\SwichCase.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SwichCase\obj\Debug\net6.0\ref\SwichCase.dll
