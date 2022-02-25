@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\bin\Debug\net6.0\StringFormating.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\bin\Debug\net6.0\StringFormating.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\bin\Debug\net6.0\StringFormating.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\bin\Debug\net6.0\StringFormating.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\bin\Debug\net6.0\StringFormating.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\refint\StringFormating.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\StringFormating.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StringFormating\obj\Debug\net6.0\ref\StringFormating.dll
