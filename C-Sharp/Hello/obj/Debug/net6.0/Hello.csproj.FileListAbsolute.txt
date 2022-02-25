@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\bin\Debug\net6.0\Hello.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\bin\Debug\net6.0\Hello.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\bin\Debug\net6.0\Hello.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\bin\Debug\net6.0\Hello.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\bin\Debug\net6.0\Hello.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\refint\Hello.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\Hello.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Hello\obj\Debug\net6.0\ref\Hello.dll

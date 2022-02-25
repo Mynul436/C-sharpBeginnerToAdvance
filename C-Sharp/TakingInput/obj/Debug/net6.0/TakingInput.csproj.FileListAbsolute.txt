@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\bin\Debug\net6.0\TakingInput.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\bin\Debug\net6.0\TakingInput.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\bin\Debug\net6.0\TakingInput.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\bin\Debug\net6.0\TakingInput.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\bin\Debug\net6.0\TakingInput.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\refint\TakingInput.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\TakingInput.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TakingInput\obj\Debug\net6.0\ref\TakingInput.dll
