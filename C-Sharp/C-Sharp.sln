@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElseUsingInputFromUser", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwichCase", "SwichCase\SwichCase.csproj", "{2538B009-236B-4FE4-9E4F-B641BF4A18CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakingInput", "TakingInput\TakingInput.csproj", "{85DEF741-27F3-49E3-8729-D9F98AB9496A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakingInput", "TakingInput\TakingInput.csproj", "{85DEF741-27F3-49E3-8729-D9F98AB9496A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormating", "StringFormating\StringFormating.csproj", "{269D414C-7569-4D52-ADE3-7BE866120683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{85DEF741-27F3-49E3-8729-D9F98AB9496A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85DEF741-27F3-49E3-8729-D9F98AB9496A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85DEF741-27F3-49E3-8729-D9F98AB9496A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269D414C-7569-4D52-ADE3-7BE866120683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269D414C-7569-4D52-ADE3-7BE866120683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269D414C-7569-4D52-ADE3-7BE866120683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269D414C-7569-4D52-ADE3-7BE866120683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
