@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\bin\Debug\StringManipulation.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\bin\Debug\StringManipulation.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\bin\Debug\StringManipulation.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\obj\Debug\StringManipulation.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\obj\Debug\StringManipulation.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\obj\Debug\StringManipulation.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\StringManipulationDemo\StringManipulation\obj\Debug\StringManipulation.pdb

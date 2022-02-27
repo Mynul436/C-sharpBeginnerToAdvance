@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\bin\Debug\net6.0\Array.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\bin\Debug\net6.0\Array.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\bin\Debug\net6.0\Array.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\bin\Debug\net6.0\Array.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\refint\Array.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Array\obj\Debug\net6.0\ref\Array.dll
