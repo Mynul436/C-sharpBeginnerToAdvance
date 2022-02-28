@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\C-Sharp\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\C-Sharp\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\C-Sharp\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\C-Sharp\\StringManipulationDemo\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Mynul\\.nuget\\packages\\",
-        "outputPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\StringManipulationDemo\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\C-Sharp\\StringManipulationDemo\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mynul\\AppData\\Roaming\\NuGet\\NuGet.Config",
