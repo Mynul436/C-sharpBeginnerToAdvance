@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakingInput", "TakingInput\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringFormating", "StringFormating\StringFormating.csproj", "{269D414C-7569-4D52-ADE3-7BE866120683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNumericFormat", "CustomNumericFormat\CustomNumericFormat.csproj", "{176C8B17-E83E-4969-8211-C3895CB7D95F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomNumericFormat", "CustomNumericFormat\CustomNumericFormat.csproj", "{176C8B17-E83E-4969-8211-C3895CB7D95F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssaignmentP1", "AssaignmentP1\AssaignmentP1.csproj", "{BC665CB9-B15E-42F7-9407-B94612466D9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{176C8B17-E83E-4969-8211-C3895CB7D95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{176C8B17-E83E-4969-8211-C3895CB7D95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{176C8B17-E83E-4969-8211-C3895CB7D95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC665CB9-B15E-42F7-9407-B94612466D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC665CB9-B15E-42F7-9407-B94612466D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC665CB9-B15E-42F7-9407-B94612466D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC665CB9-B15E-42F7-9407-B94612466D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
