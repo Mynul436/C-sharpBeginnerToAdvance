@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\bin\Debug\net6.0\AssaignmentP1.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\bin\Debug\net6.0\AssaignmentP1.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\bin\Debug\net6.0\AssaignmentP1.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\bin\Debug\net6.0\AssaignmentP1.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\bin\Debug\net6.0\AssaignmentP1.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\refint\AssaignmentP1.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\AssaignmentP1.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AssaignmentP1\obj\Debug\net6.0\ref\AssaignmentP1.dll
