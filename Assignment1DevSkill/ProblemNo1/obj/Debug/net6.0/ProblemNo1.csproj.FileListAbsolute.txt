@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\bin\Debug\net6.0\ProblemNo1.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\bin\Debug\net6.0\ProblemNo1.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\bin\Debug\net6.0\ProblemNo1.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\bin\Debug\net6.0\ProblemNo1.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\bin\Debug\net6.0\ProblemNo1.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\refint\ProblemNo1.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ProblemNo1.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment1DevSkill\ProblemNo1\obj\Debug\net6.0\ref\ProblemNo1.dll
