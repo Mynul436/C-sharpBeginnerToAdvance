@@ -17,7 +17,8 @@ namespace StringManipulation
             //stringConversion();
             //Console.WriteLine();
             //stringEscape();
-            AppendString();      
+            //AppendString();
+            OrderingString();
         }
         private static void stringConversion()
         {
@@ -44,6 +45,14 @@ namespace StringManipulation
             Console.WriteLine(r);
             Stopwatch stop =new Stopwatch();
         }
+        private static void OrderingString()
+        {
 
+        }
+        private static void CompareToHelper(string testA,string testB)
+                {
+
+
+                }
     }
 }
