@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\Assignment1DevSkill\\Problem 2\\Problem 2.csproj",
-      "projectName": "Problem 2",
-      "projectPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\Assignment1DevSkill\\Problem 2\\Problem 2.csproj",
+      "projectUniqueName": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\Assignment1DevSkill\\Problem2\\Problem3.csproj",
+      "projectName": "Problem3",
+      "projectPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\Assignment1DevSkill\\Problem2\\Problem3.csproj",
       "packagesPath": "C:\\Users\\Mynul\\.nuget\\packages\\",
-      "outputPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\Assignment1DevSkill\\Problem 2\\obj\\",
+      "outputPath": "E:\\Dev Skill\\C-sharpBeginnerToAdvance\\Assignment1DevSkill\\Problem2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mynul\\AppData\\Roaming\\NuGet\\NuGet.Config",
