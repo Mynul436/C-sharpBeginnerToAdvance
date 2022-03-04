@@ -13,21 +13,52 @@ namespace OOP
         double height;
         bool capOpen;
         double content;
-        void OpnenCap()
+        public string Color
+        {
+            get 
+            { 
+                return color; 
+            }
+        }
+        public WaterBottle()
+        {
+            color ="blue";
+            capacity =1000;
+            height =300.5;
+            capOpen = false;    
+            content =  0;
+        }
+        public WaterBottle(string color, double capacity, double height)
+        {
+            this.color = color;
+            this.capacity = capacity;
+            this.height = height;
+
+        }
+
+     public   void OpnenCap()
         {
             capOpen = true;
         }
-        void CloseCap()
+      public  void CloseCap()
         {
             capOpen=false;
         }
        public void AddWater(double amount)
         {
-
+            if(content+amount > capacity) 
+                content = amount;   
+            else
+                content+=amount;
         }
-        void RemoveWater(double amount)
+       public void RemoveWater(double amount)
         {
-
+            if(content-amount<0)
+                content = 0;
+            else
+	{
+             content -= amount;
+	}
         }
     }
 }

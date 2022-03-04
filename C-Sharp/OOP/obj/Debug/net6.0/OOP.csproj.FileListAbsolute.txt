@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\bin\Debug\net6.0\OOP.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\bin\Debug\net6.0\OOP.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\bin\Debug\net6.0\OOP.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\bin\Debug\net6.0\OOP.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\refint\OOP.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\OOP\obj\Debug\net6.0\ref\OOP.dll

@@ -2,5 +2,10 @@
 using OOP;
 
 WaterBottle bottle1= new WaterBottle();
+WaterBottle bottle2= new WaterBottle("red",2000,55.5);
 
-bottle1.AddWater(500);
+
+Console.WriteLine(bottle2.Color);
+
+EightSidedDice eightSidedDice = new EightSidedDice();
+eightSidedDice.Roll();
