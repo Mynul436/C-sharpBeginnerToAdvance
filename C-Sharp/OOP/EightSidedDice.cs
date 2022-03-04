@@ -16,9 +16,11 @@ namespace OOP
                 Size[i] = i + 1;
             }
         }
+        //hrllo
         public override void Roll()
         {
             Console.WriteLine("Rolling for eight sided Dice");
+            Console.WriteLine(Size);
         }
     }
 }
