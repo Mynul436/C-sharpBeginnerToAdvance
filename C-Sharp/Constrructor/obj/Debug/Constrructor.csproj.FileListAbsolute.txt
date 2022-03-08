@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\bin\Debug\Constrructor.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\bin\Debug\Constrructor.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\bin\Debug\Constrructor.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\obj\Debug\Constrructor.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\obj\Debug\Constrructor.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\obj\Debug\Constrructor.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\obj\Debug\Constrructor.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Constrructor\obj\Debug\Constrructor.pdb
