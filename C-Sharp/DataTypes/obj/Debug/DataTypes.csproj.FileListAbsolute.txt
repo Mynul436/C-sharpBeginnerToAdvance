@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\bin\Debug\DataTypes.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\bin\Debug\DataTypes.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\bin\Debug\DataTypes.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\obj\Debug\DataTypes.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\obj\Debug\DataTypes.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\obj\Debug\DataTypes.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DataTypes\obj\Debug\DataTypes.pdb

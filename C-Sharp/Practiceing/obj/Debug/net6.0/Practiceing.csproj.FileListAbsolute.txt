@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\bin\Debug\net6.0\Practiceing.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\bin\Debug\net6.0\Practiceing.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\bin\Debug\net6.0\Practiceing.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\bin\Debug\net6.0\Practiceing.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\bin\Debug\net6.0\Practiceing.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\refint\Practiceing.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\Practiceing.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Practiceing\obj\Debug\net6.0\ref\Practiceing.dll
