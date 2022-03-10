@@ -21,6 +21,7 @@ namespace OOP
         {
             Console.WriteLine("Rolling for eight sided Dice");
             Console.WriteLine(Size);
+            Console.WriteLine();
         }
     }
 }
