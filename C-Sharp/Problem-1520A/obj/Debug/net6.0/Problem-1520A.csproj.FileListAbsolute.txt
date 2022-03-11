@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\bin\Debug\net6.0\Problem-1520A.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\bin\Debug\net6.0\Problem-1520A.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\bin\Debug\net6.0\Problem-1520A.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\bin\Debug\net6.0\Problem-1520A.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\bin\Debug\net6.0\Problem-1520A.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\refint\Problem-1520A.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\Problem-1520A.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1520A\obj\Debug\net6.0\ref\Problem-1520A.dll
