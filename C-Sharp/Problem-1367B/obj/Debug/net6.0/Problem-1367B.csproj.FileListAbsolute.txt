@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\bin\Debug\net6.0\Problem-1367B.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\bin\Debug\net6.0\Problem-1367B.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\bin\Debug\net6.0\Problem-1367B.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\bin\Debug\net6.0\Problem-1367B.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\bin\Debug\net6.0\Problem-1367B.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\refint\Problem-1367B.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\Problem-1367B.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Problem-1367B\obj\Debug\net6.0\ref\Problem-1367B.dll
