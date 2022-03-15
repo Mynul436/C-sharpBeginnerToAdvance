@@ -1,0 +1,7 @@
+﻿namespace OOP
+{
+    class Ok
+    {
+
+    }
+}
