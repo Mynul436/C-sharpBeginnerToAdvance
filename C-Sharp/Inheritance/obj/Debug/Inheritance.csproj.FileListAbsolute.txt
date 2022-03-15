@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\bin\Debug\Inheritance.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\bin\Debug\Inheritance.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\obj\Debug\Inheritance.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inheritance\obj\Debug\Inheritance.pdb

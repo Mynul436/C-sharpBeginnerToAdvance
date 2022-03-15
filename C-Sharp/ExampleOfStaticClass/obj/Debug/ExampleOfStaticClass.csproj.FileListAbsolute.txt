@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\bin\Debug\ExampleOfStaticClass.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\bin\Debug\ExampleOfStaticClass.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\bin\Debug\ExampleOfStaticClass.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\obj\Debug\ExampleOfStaticClass.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\obj\Debug\ExampleOfStaticClass.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\obj\Debug\ExampleOfStaticClass.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\obj\Debug\ExampleOfStaticClass.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExampleOfStaticClass\obj\Debug\ExampleOfStaticClass.pdb

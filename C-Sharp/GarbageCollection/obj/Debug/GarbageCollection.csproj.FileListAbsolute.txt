@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\bin\Debug\GarbageCollection.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\bin\Debug\GarbageCollection.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\bin\Debug\GarbageCollection.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\obj\Debug\GarbageCollection.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\obj\Debug\GarbageCollection.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\obj\Debug\GarbageCollection.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\obj\Debug\GarbageCollection.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GarbageCollection\obj\Debug\GarbageCollection.pdb
