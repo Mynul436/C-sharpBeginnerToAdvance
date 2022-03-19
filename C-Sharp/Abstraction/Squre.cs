@@ -9,9 +9,17 @@ namespace Abstraction
     class Squre : Shape
     {
         private int side;
+
+        public Squre(int x)
+        {
+            side = x;
+        }
+        
         public override int area()
         {
-            throw new NotImplementedException();
+            int a=0;
+            Console.WriteLine("The area of Squre is {0}",a=side*side)
+            return a;
         }
     }
 }

@@ -2,8 +2,8 @@
 {
     internal interface IDice
     {
-        int[] FaceValue { get; }
-        int[] Size { get; }
+       double[] FaceValue { get; }
+       double[] Size { get; }
 
         void Roll();
     }

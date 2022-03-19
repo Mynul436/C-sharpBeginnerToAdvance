@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    internal class Program
+    internal class Program 
     {
+       
+
         static void Main(string[] args)
         {
+            Shape sh = new Squre(4);
+            sh.area();
         }
     }
+
 }

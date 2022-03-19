@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\bin\Debug\AbstractionDemo.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\bin\Debug\AbstractionDemo.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\bin\Debug\AbstractionDemo.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\obj\Debug\AbstractionDemo.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AbstractionDemo\obj\Debug\AbstractionDemo.pdb

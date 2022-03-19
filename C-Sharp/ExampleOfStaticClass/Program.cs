@@ -10,7 +10,7 @@ namespace ExampleOfStaticClass
     {
         public static string f_name = "Mynul";
         public static string l_name = "Akash";
-         static Program()
+        static Program()
         {
 
         }
@@ -20,7 +20,7 @@ namespace ExampleOfStaticClass
         }
         static void Main(string[] args)
         {
-           Program.details();
+            Program.details();
             Console.WriteLine("Authors first name is :{0}", Program.f_name);
             Console.WriteLine(Program.l_name);
 

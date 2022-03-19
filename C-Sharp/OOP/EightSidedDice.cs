@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OOP
+﻿namespace OOP
 {
-    internal class EightSidedDice :Dice
+    internal class EightSidedDice : Dice
     {
         public EightSidedDice()
         {
-            Size =new int[8];
-            for (int i = 0; i<8; i++)
+            Size = new int[8];
+            for (int i = 0; i < 8; i++)
             {
                 Size[i] = i + 1;
             }
