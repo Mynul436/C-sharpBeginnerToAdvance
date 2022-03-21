@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\bin\Debug\Properties.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\bin\Debug\Properties.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\bin\Debug\Properties.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\obj\Debug\Properties.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Properties\obj\Debug\Properties.pdb

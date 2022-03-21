@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\bin\Debug\ListUse.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\bin\Debug\ListUse.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\bin\Debug\ListUse.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\obj\Debug\ListUse.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\obj\Debug\ListUse.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\obj\Debug\ListUse.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\obj\Debug\ListUse.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ListUse\obj\Debug\ListUse.pdb
