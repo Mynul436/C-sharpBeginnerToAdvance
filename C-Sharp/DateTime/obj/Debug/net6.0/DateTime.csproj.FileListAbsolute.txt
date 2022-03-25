@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\bin\Debug\net6.0\DateTime.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\bin\Debug\net6.0\DateTime.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\bin\Debug\net6.0\DateTime.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\bin\Debug\net6.0\DateTime.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DateTime\obj\Debug\net6.0\ref\DateTime.dll

@@ -11,4 +11,8 @@ namespace StructureClass
         public string Name { get; set; }
         public string Description { get; set; }
     }
+    public class p2 : Product
+    {
+
+    }
 }
