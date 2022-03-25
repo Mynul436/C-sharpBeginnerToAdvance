@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\bin\Debug\net6.0\InheritanceFeature.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\bin\Debug\net6.0\InheritanceFeature.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\bin\Debug\net6.0\InheritanceFeature.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\bin\Debug\net6.0\InheritanceFeature.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\bin\Debug\net6.0\InheritanceFeature.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\refint\InheritanceFeature.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\InheritanceFeature.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\InheritanceFeature\obj\Debug\net6.0\ref\InheritanceFeature.dll
