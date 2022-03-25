@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\bin\Debug\net6.0\StructureClass.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\bin\Debug\net6.0\StructureClass.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\bin\Debug\net6.0\StructureClass.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\bin\Debug\net6.0\StructureClass.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\bin\Debug\net6.0\StructureClass.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\refint\StructureClass.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\StructureClass.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\StructureClass\obj\Debug\net6.0\ref\StructureClass.dll

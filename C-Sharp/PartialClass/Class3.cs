@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace PartialClass
 {
-    internal class Class3
+    internal partial class Product
     {
-    }
+       
+        public new double CalculateDiscount(double persentage)
+        {
+            Console.WriteLine("From Electronics");
+            if (persentage > 20)
+                persentage = 20;
+            Console.WriteLine(num = 100 * persentage);
+
+
+            return price * persentage / 100;
+        }
 }

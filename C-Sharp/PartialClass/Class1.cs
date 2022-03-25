@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace PartialClass
 {
-    internal class Class1
+    internal partial class Product
     {
+        public int id { get; set; }
+        public double price { get; set; }
+        public double CalculateDiscount(double persetage)
+        {
+            Console.WriteLine("From Product");
+            return persetage * price / 100;
+        }
     }
 }
