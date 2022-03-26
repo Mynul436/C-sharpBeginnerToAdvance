@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\refint\TupleExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TupleExample\obj\Debug\net6.0\ref\TupleExample.dll

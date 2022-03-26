@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\bin\Debug\B-B.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\bin\Debug\B-B.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\bin\Debug\B-B.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\obj\Debug\B-B.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\obj\Debug\B-B.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\obj\Debug\B-B.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\obj\Debug\B-B.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\B-B\obj\Debug\B-B.pdb
