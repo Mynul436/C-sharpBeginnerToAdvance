@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
