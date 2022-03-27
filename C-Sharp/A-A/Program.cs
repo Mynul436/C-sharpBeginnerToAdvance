@@ -21,7 +21,7 @@ namespace A_A
             {
                 for ( j = 0; j < n; j++)
                 {
-                    m[i, j] = char.Parse(stringArray[i,j]);
+                    m[i, j] = char.Parse(stringArray[]);
                 }
             }
         }

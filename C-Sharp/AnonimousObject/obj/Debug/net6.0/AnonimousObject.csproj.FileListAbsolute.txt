@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\bin\Debug\net6.0\AnonimousObject.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\bin\Debug\net6.0\AnonimousObject.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\bin\Debug\net6.0\AnonimousObject.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\bin\Debug\net6.0\AnonimousObject.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\bin\Debug\net6.0\AnonimousObject.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\refint\AnonimousObject.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\AnonimousObject.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AnonimousObject\obj\Debug\net6.0\ref\AnonimousObject.dll
