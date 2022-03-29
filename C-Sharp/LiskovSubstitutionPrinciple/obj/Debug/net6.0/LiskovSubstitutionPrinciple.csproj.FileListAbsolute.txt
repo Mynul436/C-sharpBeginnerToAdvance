@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\refint\LiskovSubstitutionPrinciple.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\LiskovSubstitutionPrinciple\obj\Debug\net6.0\ref\LiskovSubstitutionPrinciple.dll

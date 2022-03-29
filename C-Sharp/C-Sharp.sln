@@ -79,7 +79,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonimousObject", "Anonimou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericExamples", "GenericExamples\GenericExamples.csproj", "{B0767A5B-DF53-4CD4-8E1E-345070739091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{D31B9617-51D1-46F9-B2EB-32313E832077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{D31B9617-51D1-46F9-B2EB-32313E832077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{5C5FC42D-A5BD-43F4-A180-A78120C65A10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{D31B9617-51D1-46F9-B2EB-32313E832077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D31B9617-51D1-46F9-B2EB-32313E832077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D31B9617-51D1-46F9-B2EB-32313E832077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5FC42D-A5BD-43F4-A180-A78120C65A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5FC42D-A5BD-43F4-A180-A78120C65A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5FC42D-A5BD-43F4-A180-A78120C65A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5FC42D-A5BD-43F4-A180-A78120C65A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
