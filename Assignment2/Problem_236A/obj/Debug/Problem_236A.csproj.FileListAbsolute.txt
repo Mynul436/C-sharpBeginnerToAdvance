@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\bin\Debug\Problem_236A.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\bin\Debug\Problem_236A.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\bin\Debug\Problem_236A.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\obj\Debug\Problem_236A.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\obj\Debug\Problem_236A.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\obj\Debug\Problem_236A.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\obj\Debug\Problem_236A.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\Assignment2\Problem_236A\obj\Debug\Problem_236A.pdb

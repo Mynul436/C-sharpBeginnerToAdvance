@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "Ecommerce.Server.Grpc.Protos";
+package userAuth;
+service UserAuth{
+	rpc UserRegister(UserRegisterDto) returns (UserDtoModel);
+	rpc UserLogin(UserLoginDto) returns (UserDtoModel);
+}
+message UserRegisterDto{
+	string username=1;
+	string email=2;
+	string password=3;
+	string firstName=4;
+	string lastName=5;
+
+}
+message UserLoginDto{
+	string email=1;
+	string password=2;
+}
+message UserDtoModel{
+	string data=1;
+	bool isSuccessful=2;
+	string message =3;
+}

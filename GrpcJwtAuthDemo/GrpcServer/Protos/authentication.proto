@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServer";
+
+package authentication;
+
+
+service Authentication {
+  
+  rpc Authenticate (AuthenticationRequest) returns (AuthenticationReply);
+}
+
+// The request message containing the user's name.
+message AuthenticationRequest {
+  string UserName = 1;
+  string Password=2;
+}
+
+// The response message containing the greetings.
+message AuthenticationReply {
+  string AccessTolen=1;
+  int32 ExpressIn=2;
+}

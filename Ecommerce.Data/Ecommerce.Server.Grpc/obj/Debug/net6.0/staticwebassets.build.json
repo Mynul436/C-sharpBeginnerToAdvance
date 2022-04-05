@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aZ6HBXV2w2bdQIpqshht06T8MKAxS+Oj98uU5EPda2s=",
+  "Source": "Ecommerce.Server.Grpc",
+  "BasePath": "_content/Ecommerce.Server.Grpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

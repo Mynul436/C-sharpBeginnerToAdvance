@@ -1,0 +1,21 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc Client.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc Client.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc Client.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc Client.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc Client.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc.Core.Api.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc.Net.Client.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Grpc.Net.Common.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.csproj.CopyComplete
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\refint\Grpc Client.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\Grpc Client.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\GrpcDemo\Grpc Client\obj\Debug\net6.0\ref\Grpc Client.dll
