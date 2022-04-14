@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\bin\Debug\net6.0\Inportantinterface.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\bin\Debug\net6.0\Inportantinterface.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\bin\Debug\net6.0\Inportantinterface.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\bin\Debug\net6.0\Inportantinterface.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\bin\Debug\net6.0\Inportantinterface.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\refint\Inportantinterface.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\Inportantinterface.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Inportantinterface\obj\Debug\net6.0\ref\Inportantinterface.dll
