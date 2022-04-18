@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\bin\Debug\net6.0\GenericCollection.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\bin\Debug\net6.0\GenericCollection.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\bin\Debug\net6.0\GenericCollection.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\bin\Debug\net6.0\GenericCollection.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\bin\Debug\net6.0\GenericCollection.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\refint\GenericCollection.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\GenericCollection.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericCollection\obj\Debug\net6.0\ref\GenericCollection.dll
