@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\bin\Debug\net6.0\Indexers.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\bin\Debug\net6.0\Indexers.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\bin\Debug\net6.0\Indexers.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\bin\Debug\net6.0\Indexers.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\bin\Debug\net6.0\Indexers.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\refint\Indexers.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\Indexers.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Indexers\obj\Debug\net6.0\ref\Indexers.dll

@@ -87,9 +87,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inportantinterface", "Inpor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{ED4520A2-E67D-4DB3-926F-20C880FE19AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{522B3920-73CE-4809-82B9-F462B812CF34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClass", "GenericClass\GenericClass.csproj", "{522B3920-73CE-4809-82B9-F462B812CF34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollection", "GenericCollection\GenericCollection.csproj", "{5BE50022-C94C-4139-A375-FDC2CBD1EC31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCollection", "GenericCollection\GenericCollection.csproj", "{5BE50022-C94C-4139-A375-FDC2CBD1EC31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoDotnetExample", "AdoDotnetExample\AdoDotnetExample.csproj", "{96B39394-512C-44A8-9919-E9422FB01DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +277,14 @@ Global
 		{5BE50022-C94C-4139-A375-FDC2CBD1EC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE50022-C94C-4139-A375-FDC2CBD1EC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE50022-C94C-4139-A375-FDC2CBD1EC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B39394-512C-44A8-9919-E9422FB01DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B39394-512C-44A8-9919-E9422FB01DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B39394-512C-44A8-9919-E9422FB01DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B39394-512C-44A8-9919-E9422FB01DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
