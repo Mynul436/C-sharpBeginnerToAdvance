@@ -93,7 +93,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCollection", "Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoDotnetExample", "AdoDotnetExample\AdoDotnetExample.csproj", "{96B39394-512C-44A8-9919-E9422FB01DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers", "Indexers\Indexers.csproj", "{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{E4BEFFFC-EF2A-4DC3-925F-B765BF85676F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,10 @@ Global
 		{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F864ACC-9BFF-4BBD-8BE7-AC11221E50DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BEFFFC-EF2A-4DC3-925F-B765BF85676F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BEFFFC-EF2A-4DC3-925F-B765BF85676F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BEFFFC-EF2A-4DC3-925F-B765BF85676F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BEFFFC-EF2A-4DC3-925F-B765BF85676F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

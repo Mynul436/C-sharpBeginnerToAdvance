@@ -12,8 +12,12 @@ namespace Assignment3
     {
         private string _connectionString;
         private string _assembleName;
-        DbSet<Student> Students { get; set; }
-        DbSet<Course> Courses { get; set; }
+        public virtual DbSet<Student> Students { get; set; }
+        public virtual DbSet<Course> Courses { get; set; }
+        public virtual DbSet<Admin> Admins { get; set; }
+        public virtual DbSet<Teacher> Teachers { get; set; }
+        
+
         
         public DbContestClass()
         {
@@ -32,7 +36,17 @@ namespace Assignment3
         }
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<Topic>().ToTable("Topics");
+            //builder.Entity<Topic>().ToTable("Topics");
+            //builder.Entity<Course>().HasMany(c => c.Students);
+            //builder.Entity<Teacher>().HasMany(c => c.Students);
+            //builder.Entity<Admin>().HasMany(c => c.Students);
+            //builder.Entity<Admin>().HasMany(c => c.Courses);
+            //builder.Entity<Admin>().HasMany(c => c.Teachers);
+            base.OnModelCreating(builder);
+
+
+
         }
+       
     }
 }

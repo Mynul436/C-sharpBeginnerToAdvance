@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\bin\Debug\net6.0\ExtentionMethod.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\bin\Debug\net6.0\ExtentionMethod.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\bin\Debug\net6.0\ExtentionMethod.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\bin\Debug\net6.0\ExtentionMethod.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\bin\Debug\net6.0\ExtentionMethod.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\refint\ExtentionMethod.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ExtentionMethod.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\ExtentionMethod\obj\Debug\net6.0\ref\ExtentionMethod.dll

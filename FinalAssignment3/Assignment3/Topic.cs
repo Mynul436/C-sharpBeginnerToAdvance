@@ -14,6 +14,6 @@ namespace Assignment3
         public string Description { get; set; } 
         public string CourseIdName { get; set; }
 
-        public Course Course { get; set; }
+        //public Course Course { get; set; }
     }
 }
