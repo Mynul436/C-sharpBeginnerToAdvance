@@ -54,11 +54,12 @@ do
                             course.CourseName = Console.ReadLine();
                             Console.WriteLine("Enter Course Fees\n");
                             course.Fees = Console.ReadLine();
+                        Console.WriteLine("Course will start :");
                             course.ClassStartDate = Convert.ToDateTime(Console.ReadLine());
                             Console.WriteLine("Total Number Of Class");
                             course.TotalNumberOfClass = Convert.ToInt32(Console.ReadLine());
-                            Console.WriteLine("Coure Teacher Id");
-                            course.CourseTeacherId = Convert.ToInt32(Console.ReadLine());
+                            //Console.WriteLine("Coure Teacher Id");
+                           // course.CourseTeacherId = Convert.ToInt32(Console.ReadLine());
                             db.Courses.Add(course);
                             db.SaveChanges();
                             break;
