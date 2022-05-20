@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\bin\Debug\net6.0\DelegateExample.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\bin\Debug\net6.0\DelegateExample.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\bin\Debug\net6.0\DelegateExample.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\bin\Debug\net6.0\DelegateExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\bin\Debug\net6.0\DelegateExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\refint\DelegateExample.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\DelegateExample.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\DekegateExample\obj\Debug\net6.0\ref\DelegateExample.dll
