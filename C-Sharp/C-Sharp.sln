@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethod", "Anonymou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandalingExist", "FileHandalingExist\FileHandalingExist.csproj", "{E7DBB2E4-24AB-4E3E-939B-775660AD9D7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_Expression", "Lambda_Expression\Lambda_Expression.csproj", "{A7DCA6E5-C763-47B3-82E0-3F4BDA0C3FB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{E7DBB2E4-24AB-4E3E-939B-775660AD9D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7DBB2E4-24AB-4E3E-939B-775660AD9D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7DBB2E4-24AB-4E3E-939B-775660AD9D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DCA6E5-C763-47B3-82E0-3F4BDA0C3FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DCA6E5-C763-47B3-82E0-3F4BDA0C3FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DCA6E5-C763-47B3-82E0-3F4BDA0C3FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DCA6E5-C763-47B3-82E0-3F4BDA0C3FB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
