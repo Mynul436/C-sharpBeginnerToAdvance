@@ -121,6 +121,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptorPattern", "AdaptorPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfHandler", "ChainOfHandler\ChainOfHandler.csproj", "{6AD7956E-47AD-4013-B189-42853813D38F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsOld", "GenericsOld\GenericsOld.csproj", "{65E333F0-700E-4DE9-A854-3AC99FAB3C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClassNew", "GenericClassNew\GenericClassNew.csproj", "{BEDB8ED2-2DCE-40FD-A738-9292216EBACB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +367,14 @@ Global
 		{6AD7956E-47AD-4013-B189-42853813D38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD7956E-47AD-4013-B189-42853813D38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD7956E-47AD-4013-B189-42853813D38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E333F0-700E-4DE9-A854-3AC99FAB3C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E333F0-700E-4DE9-A854-3AC99FAB3C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E333F0-700E-4DE9-A854-3AC99FAB3C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E333F0-700E-4DE9-A854-3AC99FAB3C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDB8ED2-2DCE-40FD-A738-9292216EBACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDB8ED2-2DCE-40FD-A738-9292216EBACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDB8ED2-2DCE-40FD-A738-9292216EBACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDB8ED2-2DCE-40FD-A738-9292216EBACB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\bin\Debug\TemplatePattern.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\bin\Debug\TemplatePattern.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\obj\Debug\TemplatePattern.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\obj\Debug\TemplatePattern.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\obj\Debug\TemplatePattern.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\TemplatePattern\obj\Debug\TemplatePattern.pdb

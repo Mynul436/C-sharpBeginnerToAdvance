@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\obj\Debug\SingletonPattern.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\obj\Debug\SingletonPattern.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\SingletonPattern\obj\Debug\SingletonPattern.pdb

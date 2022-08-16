@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\bin\Debug\Strategy.RealWorld.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\bin\Debug\Strategy.RealWorld.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\bin\Debug\Strategy.RealWorld.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\obj\Debug\Strategy.RealWorld.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\obj\Debug\Strategy.RealWorld.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\obj\Debug\Strategy.RealWorld.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\obj\Debug\Strategy.RealWorld.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Strategy.RealWorld\obj\Debug\Strategy.RealWorld.pdb

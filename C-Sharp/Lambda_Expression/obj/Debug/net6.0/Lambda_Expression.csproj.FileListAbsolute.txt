@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\bin\Debug\net6.0\Lambda_Expression.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\bin\Debug\net6.0\Lambda_Expression.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\bin\Debug\net6.0\Lambda_Expression.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\bin\Debug\net6.0\Lambda_Expression.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\bin\Debug\net6.0\Lambda_Expression.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\refint\Lambda_Expression.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\Lambda_Expression.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Lambda_Expression\obj\Debug\net6.0\ref\Lambda_Expression.dll

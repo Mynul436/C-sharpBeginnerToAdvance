@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\bin\Debug\AdaptorPattern.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\bin\Debug\AdaptorPattern.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\bin\Debug\AdaptorPattern.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\obj\Debug\AdaptorPattern.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\obj\Debug\AdaptorPattern.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\obj\Debug\AdaptorPattern.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\obj\Debug\AdaptorPattern.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\AdaptorPattern\obj\Debug\AdaptorPattern.pdb

@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\bin\Debug\GenericsOld.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\bin\Debug\GenericsOld.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\bin\Debug\GenericsOld.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\obj\Debug\GenericsOld.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\obj\Debug\GenericsOld.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\obj\Debug\GenericsOld.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\obj\Debug\GenericsOld.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\GenericsOld\obj\Debug\GenericsOld.pdb

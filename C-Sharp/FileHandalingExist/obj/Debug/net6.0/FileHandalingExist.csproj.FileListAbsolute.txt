@@ -1,0 +1,15 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\bin\Debug\net6.0\FileHandalingExist.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\bin\Debug\net6.0\FileHandalingExist.deps.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\bin\Debug\net6.0\FileHandalingExist.runtimeconfig.json
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\bin\Debug\net6.0\FileHandalingExist.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\bin\Debug\net6.0\FileHandalingExist.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.AssemblyInfoInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.AssemblyInfo.cs
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\refint\FileHandalingExist.dll
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\FileHandalingExist.genruntimeconfig.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\FileHandalingExist\obj\Debug\net6.0\ref\FileHandalingExist.dll
