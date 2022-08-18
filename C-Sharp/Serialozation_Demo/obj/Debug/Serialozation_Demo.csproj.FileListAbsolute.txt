@@ -1,0 +1,8 @@
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\bin\Debug\Serialozation_Demo.exe.config
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\bin\Debug\Serialozation_Demo.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\bin\Debug\Serialozation_Demo.pdb
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\obj\Debug\Serialozation_Demo.csproj.AssemblyReference.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\obj\Debug\Serialozation_Demo.csproj.SuggestedBindingRedirects.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\obj\Debug\Serialozation_Demo.csproj.CoreCompileInputs.cache
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\obj\Debug\Serialozation_Demo.exe
+E:\Dev Skill\C-sharpBeginnerToAdvance\C-Sharp\Serialozation_Demo\obj\Debug\Serialozation_Demo.pdb

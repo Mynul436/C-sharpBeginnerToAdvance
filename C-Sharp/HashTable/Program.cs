@@ -27,6 +27,8 @@ namespace HashTable
             }
             Console.WriteLine("1234".GetHashCode());
             //  Console.WriteLine(h1["name"]);
+            string str = string.Format($"hello {h1.Count}");
+            Console.WriteLine(str);
 
         }
     }
